@@ -63,7 +63,7 @@ const proudOfThisFunc = () => {
 ## Author
 
 - Website - Pradhyumna Reddy(https://github.com/pradhyumna186)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/pradhyumna186)
-- Twitter - [@yourusername](https://twitter.com/Pradhyumna186)
+- Frontend Mentor - [@pradhyumna186](https://www.frontendmentor.io/profile/pradhyumna186)
+- Twitter - [@pradhyumna186](https://twitter.com/Pradhyumna186)
 
 
